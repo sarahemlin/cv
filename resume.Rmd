@@ -53,60 +53,45 @@ Contact {#contact}
 --------------------------------------------------------------------------------
 
 
-
-- <i class="fa fa-envelope"></i> sarah.e.m.lin@gmail.com
+- <i class="fa fa-link"></i> [LinkedIn Profile](http://linkedin.com/in/sarahemlin)
 - <i class="fa fa-twitter"></i> sarahemlin
 - <i class="fa fa-github"></i> github.com/sarahemlin
-- <i class="fa fa-link"></i> [LinkedIn Profile](http://linkedin.com/in/sarahemlin)
-- <i class="fa fa-phone"></i> (408) 610-3685
 
 
-
-Language Skills {#skills}
+Skills {#skills}
 --------------------------------------------------------------------------------
 
-
-```{r}
-skills <- tribble(
-  ~skill,               ~level,
-  "R",                  5,
-  "Javascript (d3.js)", 4.5,
-  "Python",             4,
-  "Bash",               3.5,
-  "SQL",                3,
-  "C++",                3,
-  "AWK",                3
-)
-build_skill_bars(skills)
-```
+- Metadata management
+- User-centered design
+- Knowledge management
+- Project management
+- Leadership & training
+- Critical thinking
 
 
-
-Open Source Contributions {#open-source}
+Achievements {#achievements}
 --------------------------------------------------------------------------------
 
-All projects available at `github.com/sarahemlin/<name>`
+- VP/President-Elect, NOCALL
+- 
+- 2016 Emerging Leader Award, AALL
 
-
-- `shinysense`: R package to use sensor data in Shiny apps
-- `tuftesque`: Hugo theme (behind LiveFreeOrDichotomize.com)
-- `slid3r`: D3 add-on for fully svg slider inputs
 
 
 More info {#more-info}
 --------------------------------------------------------------------------------
 
-See full CV at nickstrayer.me/cv for more complete list of positions and publications.
+See [LinkedIn](http://linkedin.com/in/sarahemlin) for a complete list of positions and publications.
 
 
 Disclaimer {#disclaimer}
 --------------------------------------------------------------------------------
 
-Made w/ [**pagedown**](https://github.com/rstudio/pagedown). 
+Made w/ [**pagedown**](https://github.com/rstudio/pagedown) 
 
-Source code: [github.com/sarahemlin/cv](https://https://github.com/sarahemlin/cv).
+[Source code](https://github.com/sarahemlin/cv)
 
-Last updated on `r Sys.Date()`.
+Last updated on `r Sys.Date()`
 
 
 
