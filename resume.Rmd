@@ -65,15 +65,15 @@ Skills {#skills}
 - User-centered design
 - Knowledge management
 - Project management
-- Leadership & training
+- Information policies & standards
 - Critical thinking
 
 
 Achievements {#achievements}
 --------------------------------------------------------------------------------
 
-- VP/President-Elect, NOCALL
-- 
+- Certified Carpentries Instructor
+- NOCALL President 2020/21
 - 2016 Emerging Leader Award, AALL
 
 
@@ -103,7 +103,7 @@ Sarah Lin {#title}
 --------------------------------------------------------------------------------
 
 ```{r}
-intro_text <- "Librarian with 10+ years' experience in metadata management; excellent verbal and written communication skills as demonstrated by professional publications and presentations.
+intro_text <- "Librarian with 10+ years' experience in information management; excellent verbal and written communication skills as demonstrated by professional publications and presentations.
 "
 
 
